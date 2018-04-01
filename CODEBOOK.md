@@ -11,10 +11,11 @@
 * Headers: First row;
 * Data: Second row onwards.
 
+
 ## Identifiers
 
 * subject: Integer, ranges from 1 to 30.
 * activity: String, With the options: `WALKING`, `WALKING_UPSTAIRS`, `WALKING_DOWNSTAIRS`, `SITTING`, `STANDING`, `LAYING`.
 
 
-
+## Variables
