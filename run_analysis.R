@@ -1,11 +1,5 @@
 
-# FILE: run_analysis.R
-
-# OVERVIEW:
-# 
-# 
-# 
-
+# FILE: run_analysis.R // Output 2 files: tidy_data_all.txt & tidy_data_grouped.txt
 
 # PREP STEP:
 
