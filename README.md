@@ -14,7 +14,7 @@ https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Datas
 - `tidy_data_all.txt`: Complete tidy data set (all collumns).
 - `tidy_data_grouped.txt`: Grouped tidy data set.
 - `CODEBOOK.md`: Describes the contents of the data sets (indicate all the variables and summaries calculated, along with units, and any other relevant information).
-- `run_analysis.R`: R script that was used to create the data set. 
+- `run_analysis.R`: R script that was used to create the data sets. 
 
 ## R script called run_analysis.R that does the following:
 
