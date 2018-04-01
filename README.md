@@ -26,7 +26,7 @@ https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Datas
 * From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject.
 * Export 2 tiny data files called *tidy_data_all.txt* and *tidy_data_grouped.txt*.
 
-## System Info
+## System Info:
 * Windows 10 Enterprise x64
 * R Studio Version 1.1.383
 * Library dplyr_0.7.4
